@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "whittys5"
+		},
+		{
+			"offsets": [
+				10,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "whittys2"
+		},
+		{
+			"offsets": [
+				73,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "whittys8"
+		},
+		{
+			"offsets": [
+				149,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "whittys6"
+		},
+		{
+			"offsets": [
+				-12,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whittys4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whittys",
+	"position": [
+		90,
+		0
+	],
+	"healthicon": "whittys",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

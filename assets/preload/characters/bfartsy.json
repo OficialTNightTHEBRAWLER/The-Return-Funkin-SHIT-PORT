@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf5",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				76
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				254,
+				200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf8",
+			"indices": []
+		},
+		{
+			"offsets": [
+				320,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf4"
+		},
+		{
+			"offsets": [
+				131,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf6"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bfm2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				177
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bfm8",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				126
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bfm4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				139
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bfm6",
+			"indices": []
+		},
+		{
+			"offsets": [
+				166,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spam",
+			"loop": false,
+			"name": "bfspam"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfartsy",
+	"position": [
+		80,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		210,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

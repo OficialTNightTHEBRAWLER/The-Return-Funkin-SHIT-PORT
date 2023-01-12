@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whittym5",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-88
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whittym2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whittym8",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whittym6",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whittym4",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whittym",
+	"position": [
+		40,
+		0
+	],
+	"healthicon": "whittym",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		0
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

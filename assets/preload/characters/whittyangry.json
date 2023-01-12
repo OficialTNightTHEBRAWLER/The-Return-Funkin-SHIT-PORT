@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whittyangry5",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whittyangry2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whittyangry8",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whittyangry6",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whittyangry4",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whittyangry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whitty",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
