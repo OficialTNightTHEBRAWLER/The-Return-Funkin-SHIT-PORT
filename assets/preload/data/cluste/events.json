@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				97454.5454545455,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfspam"
+					]
+				]
+			],
+			[
+				98909.090909091,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfspamidle"
+					]
+				]
+			],
+			[
+				100363.636363636,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfspamidle"
+					]
+				]
+			],
+			[
+				109090.909090909,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfspamoff"
+					]
+				]
+			],
+			[
+				110545.454545455,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfartsy"
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}
