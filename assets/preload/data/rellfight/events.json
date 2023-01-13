@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				26181.8181818182,
+				[
+					[
+						"Flash Camera",
+						"1 ",
+						""
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfdance"
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44181.8181818182,
+				[
+					[
+						"Flash Camera",
+						"1 ",
+						""
+					]
+				]
+			],
+			[
+				52363.6363636363,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52363.6363636363,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfartsy"
+					]
+				]
+			],
+			[
+				61090.909090909,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				61090.909090909,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfdance"
+					]
+				]
+			],
+			[
+				69818.1818181818,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfartsy"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87272.7272727272,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfdance"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfartsy"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106363.636363636,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfdance"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123272.727272727,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"FlipUI",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123272.727272727,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfartsy"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140727.272727273,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"shakey arrows",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
