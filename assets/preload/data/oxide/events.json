@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whittyangry"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfmad"
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"stage test",
+						"alleymad",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				16125,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Set Cam Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
