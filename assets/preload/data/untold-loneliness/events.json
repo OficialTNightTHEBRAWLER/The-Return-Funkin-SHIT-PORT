@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				90600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whittys"
+					],
+                                        [
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gfmadb"
+					],
+					[
+						"stage test",
+						"untold",
+						""
+					]
+				]
+			]
+		]
+	}
+}
