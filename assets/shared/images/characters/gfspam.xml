@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfspam.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfspam0000" x="0" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0001" x="417" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0002" x="834" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0003" x="1251" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0004" x="1668" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0005" x="2085" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0006" x="2502" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0007" x="2919" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0008" x="3336" y="0" width="417" height="699"/>
+	<SubTexture name="gfspam0009" x="0" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0010" x="417" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0011" x="834" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0012" x="1251" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0013" x="1668" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0014" x="2085" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0015" x="2502" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0016" x="2919" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0017" x="3336" y="699" width="417" height="699"/>
+	<SubTexture name="gfspam0018" x="0" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0019" x="417" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0020" x="834" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0021" x="1251" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0022" x="1668" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0023" x="2085" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0024" x="2502" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0025" x="2919" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0026" x="3336" y="1398" width="417" height="699"/>
+	<SubTexture name="gfspam0027" x="0" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0028" x="417" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0029" x="834" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0030" x="1251" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0031" x="1668" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0032" x="2085" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0033" x="2502" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0034" x="2919" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0035" x="3336" y="2097" width="417" height="699"/>
+	<SubTexture name="gfspam0036" x="0" y="2796" width="417" height="699"/>
+	<SubTexture name="gfspam0037" x="417" y="2796" width="417" height="699"/>
+	<SubTexture name="gfspam0038" x="834" y="2796" width="417" height="699"/>
+	<SubTexture name="gfspam0039" x="3336" y="699" width="417" height="699"/>
+</TextureAtlas>

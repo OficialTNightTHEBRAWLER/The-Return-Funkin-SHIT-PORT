@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whittymb.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whittym2 instance 10000" x="0" y="0" width="422" height="584"/>
+	<SubTexture name="whittym2 instance 10001" x="422" y="0" width="422" height="584"/>
+	<SubTexture name="whittym2 instance 10002" x="844" y="0" width="422" height="584"/>
+	<SubTexture name="whittym2 instance 10003" x="1266" y="0" width="422" height="584"/>
+	<SubTexture name="whittym2 instance 10004" x="1688" y="0" width="422" height="584"/>
+	<SubTexture name="whittym2 instance 10005" x="2110" y="0" width="422" height="584"/>
+	<SubTexture name="whittym4 instance 10000" x="2532" y="0" width="543" height="602"/>
+	<SubTexture name="whittym4 instance 10001" x="3075" y="0" width="543" height="602"/>
+	<SubTexture name="whittym4 instance 10002" x="0" y="602" width="543" height="602"/>
+	<SubTexture name="whittym4 instance 10003" x="543" y="602" width="543" height="602"/>
+	<SubTexture name="whittym4 instance 10004" x="1086" y="602" width="543" height="602"/>
+	<SubTexture name="whittym4 instance 10005" x="1629" y="602" width="543" height="602"/>
+	<SubTexture name="whittym5 instance 10000" x="2172" y="602" width="451" height="642"/>
+	<SubTexture name="whittym5 instance 10001" x="2623" y="602" width="451" height="642"/>
+	<SubTexture name="whittym5 instance 10002" x="3074" y="602" width="451" height="642"/>
+	<SubTexture name="whittym5 instance 10003" x="3525" y="602" width="451" height="642"/>
+	<SubTexture name="whittym5 instance 10004" x="0" y="1244" width="451" height="642"/>
+	<SubTexture name="whittym5 instance 10005" x="451" y="1244" width="451" height="642"/>
+	<SubTexture name="whittym6 instance 10000" x="902" y="1244" width="589" height="609"/>
+	<SubTexture name="whittym6 instance 10001" x="1491" y="1244" width="589" height="609"/>
+	<SubTexture name="whittym6 instance 10002" x="2080" y="1244" width="589" height="609"/>
+	<SubTexture name="whittym6 instance 10003" x="2669" y="1244" width="589" height="609"/>
+	<SubTexture name="whittym6 instance 10004" x="3258" y="1244" width="589" height="609"/>
+	<SubTexture name="whittym6 instance 10005" x="0" y="1886" width="589" height="609"/>
+	<SubTexture name="whittym8 instance 10000" x="589" y="1886" width="489" height="628"/>
+	<SubTexture name="whittym8 instance 10001" x="1078" y="1886" width="489" height="628"/>
+	<SubTexture name="whittym8 instance 10002" x="1567" y="1886" width="489" height="628"/>
+	<SubTexture name="whittym8 instance 10003" x="2056" y="1886" width="489" height="628"/>
+	<SubTexture name="whittym8 instance 10004" x="2545" y="1886" width="489" height="628"/>
+	<SubTexture name="whittym8 instance 10005" x="3034" y="1886" width="489" height="628"/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sans20000" x="0" y="0" width="437" height="550"/>
+	<SubTexture name="sans20001" x="437" y="0" width="437" height="550"/>
+	<SubTexture name="sans20002" x="874" y="0" width="437" height="550"/>
+	<SubTexture name="sans20003" x="1311" y="0" width="437" height="550"/>
+	<SubTexture name="sans20004" x="1748" y="0" width="437" height="550"/>
+	<SubTexture name="sans20005" x="2185" y="0" width="437" height="550"/>
+	<SubTexture name="sans40000" x="2622" y="0" width="526" height="594"/>
+	<SubTexture name="sans40001" x="3148" y="0" width="526" height="594"/>
+	<SubTexture name="sans40002" x="0" y="594" width="526" height="594"/>
+	<SubTexture name="sans40003" x="526" y="594" width="526" height="594"/>
+	<SubTexture name="sans40004" x="1052" y="594" width="526" height="594"/>
+	<SubTexture name="sans40005" x="1578" y="594" width="526" height="594"/>
+	<SubTexture name="sans50000" x="2104" y="594" width="428" height="584"/>
+	<SubTexture name="sans50001" x="2532" y="594" width="428" height="584"/>
+	<SubTexture name="sans50002" x="2960" y="594" width="428" height="584"/>
+	<SubTexture name="sans50003" x="3388" y="594" width="428" height="584"/>
+	<SubTexture name="sans50004" x="0" y="1188" width="428" height="584"/>
+	<SubTexture name="sans50005" x="428" y="1188" width="428" height="584"/>
+	<SubTexture name="sans50006" x="856" y="1188" width="428" height="584"/>
+	<SubTexture name="sans50007" x="1284" y="1188" width="428" height="584"/>
+	<SubTexture name="sans60000" x="1712" y="1188" width="481" height="582"/>
+	<SubTexture name="sans60001" x="2193" y="1188" width="481" height="582"/>
+	<SubTexture name="sans60002" x="2674" y="1188" width="481" height="582"/>
+	<SubTexture name="sans60003" x="3155" y="1188" width="481" height="582"/>
+	<SubTexture name="sans60004" x="0" y="1772" width="481" height="582"/>
+	<SubTexture name="sans60005" x="481" y="1772" width="481" height="582"/>
+	<SubTexture name="sans80000" x="962" y="1772" width="416" height="599"/>
+	<SubTexture name="sans80001" x="1378" y="1772" width="416" height="599"/>
+	<SubTexture name="sans80002" x="1794" y="1772" width="416" height="599"/>
+	<SubTexture name="sans80003" x="2210" y="1772" width="416" height="599"/>
+	<SubTexture name="sans80004" x="2626" y="1772" width="416" height="599"/>
+	<SubTexture name="sans80005" x="3042" y="1772" width="416" height="599"/>
+</TextureAtlas>

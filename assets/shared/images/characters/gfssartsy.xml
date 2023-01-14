@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfssartsy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfcools instance 10000" x="50" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10001" x="462" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10002" x="874" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10003" x="1286" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10004" x="1698" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10005" x="2110" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10006" x="2522" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10007" x="2934" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10008" x="3346" y="50" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10009" x="50" y="607" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10010" x="462" y="607" width="412" height="557"/>
+	<SubTexture name="gfcools instance 10011" x="874" y="607" width="412" height="557"/>
+</TextureAtlas>

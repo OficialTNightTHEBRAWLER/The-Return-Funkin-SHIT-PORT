@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfdance.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfdance instance 10000" x="0" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10001" x="471" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10002" x="942" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10003" x="1413" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10004" x="1884" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10005" x="2355" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10006" x="2826" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10007" x="3297" y="0" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10008" x="0" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10009" x="471" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10010" x="942" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10011" x="1413" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10012" x="1884" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10013" x="2355" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10014" x="2826" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10015" x="3297" y="576" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10016" x="0" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10017" x="471" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10018" x="942" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10019" x="1413" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10020" x="1884" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10021" x="2355" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10022" x="2826" y="1152" width="471" height="576"/>
+	<SubTexture name="gfdance instance 10023" x="3297" y="1152" width="471" height="576"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whitty20000" x="0" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20001" x="609" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20002" x="1218" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20003" x="1827" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20004" x="2436" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20005" x="3045" y="0" width="609" height="600"/>
+	<SubTexture name="whitty40000" x="0" y="600" width="617" height="657"/>
+	<SubTexture name="whitty40001" x="617" y="600" width="617" height="657"/>
+	<SubTexture name="whitty40002" x="1234" y="600" width="617" height="657"/>
+	<SubTexture name="whitty40003" x="1851" y="600" width="617" height="657"/>
+	<SubTexture name="whitty40004" x="2468" y="600" width="617" height="657"/>
+	<SubTexture name="whitty40005" x="3085" y="600" width="617" height="657"/>
+	<SubTexture name="whitty50000" x="0" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50001" x="520" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50002" x="1040" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50003" x="1560" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50004" x="2080" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50005" x="2600" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty50006" x="3120" y="1257" width="520" height="662"/>
+	<SubTexture name="whitty60000" x="0" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty60001" x="614" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty60002" x="1228" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty60003" x="1842" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty60004" x="2456" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty60005" x="3070" y="1919" width="614" height="706"/>
+	<SubTexture name="whitty80000" x="0" y="2625" width="619" height="707"/>
+	<SubTexture name="whitty80001" x="619" y="2625" width="619" height="707"/>
+	<SubTexture name="whitty80002" x="1238" y="2625" width="619" height="707"/>
+	<SubTexture name="whitty80003" x="1857" y="2625" width="619" height="707"/>
+	<SubTexture name="whitty80004" x="2476" y="2625" width="619" height="707"/>
+	<SubTexture name="whitty80005" x="3095" y="2625" width="619" height="707"/>
+</TextureAtlas>

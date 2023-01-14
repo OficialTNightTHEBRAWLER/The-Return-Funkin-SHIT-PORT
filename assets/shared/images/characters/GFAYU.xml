@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_rock.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="2800" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0001" x="3452" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0002" x="4104" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0003" x="4756" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0004" x="5408" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0005" x="6060" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0006" x="6712" y="1511" width="652" height="1034"/>
+	<SubTexture name="GF Dancing Beat0007" x="7364" y="1511" width="652" height="1034"/>
+</TextureAtlas>
